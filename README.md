@@ -2,7 +2,7 @@
 
 ### My Udacity BikeShare Project
 
-### Description
+## Description
 Python project focuses on Pandas library to explore data and perform a descriptive analysis on the bikeshare data from three U.S. cities - Chicago, New York, Washington.
 This project create a python script that you can run in your computer in order to get bikeshare data from the cities mentioned above.
 You can input some data and get the following information:
