@@ -19,7 +19,6 @@ Types of users by number
 Types of users by gender (if available)
 The oldest user (if available)
 The youngest user (if available)
-The most common birth year amongst users (if available)
 
 ### Files used
 chicago.csv - contain bikeshare data information for the city of Chicago.
